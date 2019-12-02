@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-28T08:18:48.585Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YX6ayGOAy1UDIEtnr22c" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T11:31:06.758Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5XjSGW0JqHepDsN8saLU" version="12.3.2" type="github" pages="1">
   <diagram id="9MN-6Ym-kLOUf6tvWToS" name="第 1 页">
     <mxGraphModel dx="1038" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="dzB3Clg9ve9drLu7Sz4O-50" value="Submit" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="450" y="588.5" width="80" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="dzB3Clg9ve9drLu7Sz4O-52" value="&lt;span style=&quot;color: rgb(89 , 103 , 128) ; font-size: 11px ; text-align: left&quot;&gt;语音基础信息设置&lt;/span&gt;" style="dashed=0;html=1;rounded=1;fillColor=#DFE1E6;strokeColor=#DFE1E6;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#42526E" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="110" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
