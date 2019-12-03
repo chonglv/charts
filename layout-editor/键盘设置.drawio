@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T09:20:19.980Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xqj1PzUkGqqptVAaHRtN" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T09:32:02.171Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="8aPxIteSqc1d_7nqlgoD" version="12.3.5" type="github" pages="1">
   <diagram id="PkoRvBVkpl1wG78z6C93" name="第 1 页">
     <mxGraphModel dx="1038" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -557,7 +557,7 @@
           <mxGeometry x="338.5" y="134" width="86" height="33" as="geometry"/>
         </mxCell>
         <mxCell id="tmjR7Qj9dmBTTIml7QTe-5" value="保存" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="460" y="134" width="86" height="33" as="geometry"/>
+          <mxGeometry x="438.5" y="65" width="86" height="33" as="geometry"/>
         </mxCell>
         <mxCell id="tmjR7Qj9dmBTTIml7QTe-6" value="选择" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="297.5" y="320.5" width="86" height="33" as="geometry"/>
@@ -639,9 +639,6 @@
         <mxCell id="tmjR7Qj9dmBTTIml7QTe-32" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;按键设计&lt;/span&gt;" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="117" y="2090" width="80" height="33" as="geometry"/>
         </mxCell>
-        <mxCell id="tmjR7Qj9dmBTTIml7QTe-33" value="新建" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="234.5" y="65" width="80" height="33" as="geometry"/>
-        </mxCell>
         <mxCell id="tmjR7Qj9dmBTTIml7QTe-36" value="新建" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="247.5" y="611" width="86" height="33" as="geometry"/>
         </mxCell>
@@ -659,6 +656,9 @@
         </mxCell>
         <mxCell id="tmjR7Qj9dmBTTIml7QTe-42" value="&lt;span style=&quot;color: rgb(89 , 103 , 128) ; font-size: 11px&quot;&gt;CodeView&lt;/span&gt;" style="dashed=0;html=1;rounded=1;fillColor=#DFE1E6;strokeColor=#DFE1E6;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#42526E" vertex="1" parent="1">
           <mxGeometry x="109.5" y="1084.5" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="tmjR7Qj9dmBTTIml7QTe-44" value="选择" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="65" width="80" height="33" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
