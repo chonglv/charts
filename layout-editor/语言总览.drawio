@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T09:06:58.009Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9Wzy_ai2KGOHoR-mGMGb" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T09:17:47.891Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="6YNqjbkzUxfyM87fKYBc" version="12.3.5" type="github" pages="1">
   <diagram id="a9pKxFSBlb7pD1C8hja9" name="第 1 页">
     <mxGraphModel dx="1038" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="Z6xtozhDD63QPaq7W4yF-44" value="安卓" style="dashed=0;html=1;rounded=1;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" vertex="1" parent="1">
           <mxGeometry x="810" y="340" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Z6xtozhDD63QPaq7W4yF-45" value="安卓" style="dashed=0;html=1;rounded=1;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" vertex="1" parent="1">
+        <mxCell id="Z6xtozhDD63QPaq7W4yF-45" value="苹果" style="dashed=0;html=1;rounded=1;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" vertex="1" parent="1">
           <mxGeometry x="810" y="406.5" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
