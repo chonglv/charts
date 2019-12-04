@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T03:25:50.283Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Yd86aUhoTb1rBBGf1p5y" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-04T06:13:24.340Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="f1g85UpXqOrJ4f71sQAT" version="12.3.5" type="github" pages="1">
   <diagram id="PkoRvBVkpl1wG78z6C93" name="第 1 页">
     <mxGraphModel dx="1038" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -47,16 +47,16 @@
           <mxGeometry x="180.5" y="322" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="vN8L1wxS-TLqOdtid_vG-30" value="水平间隔" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=center;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="84.5" y="445" width="60" height="20" as="geometry"/>
+          <mxGeometry x="84.5" y="433" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="vN8L1wxS-TLqOdtid_vG-31" value="" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="164.5" y="440" width="100" height="30" as="geometry"/>
+          <mxGeometry x="164.5" y="428" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="vN8L1wxS-TLqOdtid_vG-32" value="垂直间隔" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=center;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="294" y="445" width="60" height="20" as="geometry"/>
+          <mxGeometry x="294" y="433" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="vN8L1wxS-TLqOdtid_vG-33" value="" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="374" y="440" width="100" height="30" as="geometry"/>
+          <mxGeometry x="374" y="428" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="vN8L1wxS-TLqOdtid_vG-34" value="键盘名称" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=center;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
           <mxGeometry x="112.5" y="189.5" width="60" height="20" as="geometry"/>
@@ -675,6 +675,11 @@
         <mxCell id="tmjR7Qj9dmBTTIml7QTe-62" value="推荐词前景" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=center;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
           <mxGeometry x="104" y="379.5" width="60" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="tmjR7Qj9dmBTTIml7QTe-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tmjR7Qj9dmBTTIml7QTe-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="389.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tmjR7Qj9dmBTTIml7QTe-63" value="FgStyle_XX" style="rounded=1;fillColor=#253858;strokeColor=none;html=1;fontColor=#ffffff;align=left;fontSize=12;spacingLeft=10" vertex="1" parent="1">
           <mxGeometry x="182" y="372" width="110" height="35" as="geometry"/>
         </mxCell>
@@ -684,7 +689,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tmjR7Qj9dmBTTIml7QTe-65" value="" style="rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;shadow=1;html=1;arcSize=4;align=center;" vertex="1" parent="1">
-          <mxGeometry x="324.5" y="367" width="102" height="70" as="geometry"/>
+          <mxGeometry x="410" y="350" width="102" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="tmjR7Qj9dmBTTIml7QTe-66" value="FgStyle_XX" style="rounded=0;fillColor=#F4F5F7;strokeColor=none;shadow=0;html=1;align=center;fontSize=12;spacingLeft=10;fontColor=#253858;resizeWidth=1" vertex="1" parent="tmjR7Qj9dmBTTIml7QTe-65">
           <mxGeometry width="102" height="33" relative="1" as="geometry">
@@ -695,6 +700,12 @@
           <mxGeometry width="102" height="33" relative="1" as="geometry">
             <mxPoint y="39" as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tmjR7Qj9dmBTTIml7QTe-74" value="水平间隔-全键" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=center;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="475" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="tmjR7Qj9dmBTTIml7QTe-75" value="" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="470" width="100" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
