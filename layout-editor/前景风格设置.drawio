@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T09:18:33.648Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="u25EPXui9xqUDNDfchVC" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T09:59:02.594Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="jNDx_IMH9Dm0jNN3JQRX" version="12.3.5" type="github" pages="1">
   <diagram id="F2t0CvAlyX9msotLTjHV" name="第 1 页">
     <mxGraphModel dx="1038" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -83,25 +83,25 @@
           <mxGeometry x="68" y="346.5" width="93" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-55" value="中主丝印位置" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="88" y="395" width="60" height="20" as="geometry"/>
+          <mxGeometry x="82.5" y="445" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-56" value="45" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="188" y="390" width="62" height="20" as="geometry"/>
+          <mxGeometry x="182.5" y="440" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-57" value="45" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="269" y="390" width="62" height="20" as="geometry"/>
+          <mxGeometry x="263.5" y="440" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-58" value="45" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="346.5" y="390" width="62" height="20" as="geometry"/>
+          <mxGeometry x="341" y="440" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-59" value="45" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="427.5" y="390" width="62" height="20" as="geometry"/>
+          <mxGeometry x="422" y="440" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-60" value="中主丝印-字体风格" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="68.5" y="436.5" width="93" height="20" as="geometry"/>
+          <mxGeometry x="63" y="486.5" width="93" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-61" value="字体风格中选择" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10" parent="1" vertex="1">
-          <mxGeometry x="188" y="430" width="142" height="30" as="geometry"/>
+          <mxGeometry x="182.5" y="480" width="142" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-62" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1" parent="jyvKhXXE0eLRTPu1VaxT-61" vertex="1">
           <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
@@ -109,25 +109,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-63" value="副丝印位置" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="88" y="485" width="60" height="20" as="geometry"/>
+          <mxGeometry x="82.5" y="535" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-64" value="45" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="188" y="480" width="62" height="20" as="geometry"/>
+          <mxGeometry x="182.5" y="530" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-65" value="45" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="269" y="480" width="62" height="20" as="geometry"/>
+          <mxGeometry x="263.5" y="530" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-66" value="45" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="346.5" y="480" width="62" height="20" as="geometry"/>
+          <mxGeometry x="341" y="530" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-67" value="45" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="427.5" y="480" width="62" height="20" as="geometry"/>
+          <mxGeometry x="422" y="530" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-68" value="副丝印-字体风格" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="68.5" y="526.5" width="93" height="20" as="geometry"/>
+          <mxGeometry x="63" y="576.5" width="93" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-69" value="字体风格中选择" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10" parent="1" vertex="1">
-          <mxGeometry x="188" y="520" width="142" height="30" as="geometry"/>
+          <mxGeometry x="182.5" y="570" width="142" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-70" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1" parent="jyvKhXXE0eLRTPu1VaxT-69" vertex="1">
           <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
@@ -154,17 +154,17 @@
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-76" value="100" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="394" y="154.5" width="100" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="jyvKhXXE0eLRTPu1VaxT-77" value="主丝印水平偏移" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
+        <mxCell id="jyvKhXXE0eLRTPu1VaxT-77" value="主丝印水平对齐" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
           <mxGeometry x="346" y="347" width="89" height="17" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-78" value="1" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="446" y="346.5" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-80" value="副丝印水平偏移" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="354.5" y="527" width="89" height="17" as="geometry"/>
+          <mxGeometry x="349" y="577" width="89" height="17" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-81" value="-1" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="454.5" y="526.5" width="62" height="20" as="geometry"/>
+          <mxGeometry x="449" y="576.5" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-82" value="主丝印可见" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
           <mxGeometry x="523" y="310" width="60" height="20" as="geometry"/>
@@ -173,16 +173,16 @@
           <mxGeometry x="603.5" y="310" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-84" value="中丝印可见" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="523" y="390" width="60" height="20" as="geometry"/>
+          <mxGeometry x="517.5" y="440" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-85" value="1" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="603.5" y="390" width="62" height="20" as="geometry"/>
+          <mxGeometry x="598" y="440" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-86" value="副丝印可见" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="523" y="480" width="60" height="20" as="geometry"/>
+          <mxGeometry x="517.5" y="530" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="jyvKhXXE0eLRTPu1VaxT-87" value="1" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="603.5" y="480" width="62" height="20" as="geometry"/>
+          <mxGeometry x="598" y="530" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="UC3aawzpcO9CxyrHWoxz-1" value="前景设置" style="rounded=1;fillColor=#0065FF;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=18;fontStyle=1;arcSize=50" vertex="1" parent="1">
           <mxGeometry x="226.5" y="10" width="410" height="40" as="geometry"/>
@@ -192,6 +192,18 @@
         </mxCell>
         <mxCell id="UC3aawzpcO9CxyrHWoxz-5" value="前景风格" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="70" y="58.5" width="80" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="UC3aawzpcO9CxyrHWoxz-6" value="主丝印水平偏移" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="91.5" y="390.5" width="89" height="17" as="geometry"/>
+        </mxCell>
+        <mxCell id="UC3aawzpcO9CxyrHWoxz-7" value="1" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="191.5" y="390" width="62" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UC3aawzpcO9CxyrHWoxz-8" value="主丝印垂直偏移" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="279" y="388" width="89" height="17" as="geometry"/>
+        </mxCell>
+        <mxCell id="UC3aawzpcO9CxyrHWoxz-9" value="1" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="379" y="387.5" width="62" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
