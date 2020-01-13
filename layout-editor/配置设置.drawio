@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T03:15:37.649Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="wUgmTo9Yj8A-rbArXk0J" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T03:18:16.856Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_OWmVH2FSnJwah-pHlqx" version="12.4.9" type="github">
   <diagram id="JMm2xp8UbMph337cffVB" name="第 1 页">
     <mxGraphModel dx="1038" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="80" y="850" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="giWhBIzOmJIIFQJ4k5uq-37" value="ime_switch_language_korean.png" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="270" y="880" width="250" height="30" as="geometry"/>
+          <mxGeometry x="271" y="884" width="250" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="giWhBIzOmJIIFQJ4k5uq-38" value="PRESSED" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
           <mxGeometry x="80" y="890" width="60" height="20" as="geometry"/>
@@ -108,6 +108,36 @@
         </mxCell>
         <mxCell id="giWhBIzOmJIIFQJ4k5uq-40" value="SELECTED" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
           <mxGeometry x="80" y="935" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-41" value="选择" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="560" y="837" width="86" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-42" value="选择" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="560" y="883.5" width="86" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-43" value="选择" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="560" y="930" width="86" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-44" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#596780&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;labels设置&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="dashed=0;html=1;rounded=1;fillColor=#DFE1E6;strokeColor=#DFE1E6;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#42526E" vertex="1" parent="1">
+          <mxGeometry x="40" y="1010" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-45" value="EnterKeyLabel" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="270" y="1050" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-46" value="名称" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="80" y="1060" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-47" value="2,3,4,5,6,7,8" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="270" y="1090" width="250" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-48" value="ID" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="80" y="1100" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-49" value="시작,검색,전송,다음,완료,이전,이동" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="271" y="1134" width="250" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="giWhBIzOmJIIFQJ4k5uq-50" value="LABEL" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="80" y="1140" width="60" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
