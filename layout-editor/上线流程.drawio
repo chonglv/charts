@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T11:33:25.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="PDQnAB7BsD0zrwQi9cXj" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T11:35:24.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="5gna8EMNxUhBWKRfGKoZ" version="13.6.4" type="github">
   <diagram id="1EMLyv-aDlPW3CLGLThD" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry x="485" y="270" width="80" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-7" value="自定义文件名" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
-          <mxGeometry x="80" y="380" width="12" height="12" as="geometry" />
+          <mxGeometry x="260" y="320" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-8" value="覆盖同名文件" style="rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="198.5" y="380" width="12" height="12" as="geometry" />
+          <mxGeometry x="378.5" y="320" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-11" value="上传" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="595" y="270" width="80" height="33" as="geometry" />
@@ -37,11 +37,11 @@
         <mxCell id="2cxDILAhDorEXdLIPszs-13" value="韩文-code" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="50" y="440" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2cxDILAhDorEXdLIPszs-14" value="韩文-code" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+        <mxCell id="2cxDILAhDorEXdLIPszs-14" value="日文-code" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="50" y="480" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2cxDILAhDorEXdLIPszs-15" value="韩文-code" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="50" y="520" width="210" height="30" as="geometry" />
+        <mxCell id="2cxDILAhDorEXdLIPszs-15" value="藏文-code" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="49" y="520" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cxDILAhDorEXdLIPszs-16">
           <mxGeometry relative="1" as="geometry">
@@ -130,15 +130,15 @@
           <mxGeometry x="560" y="524.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-42" value="预览" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="102.5" y="680" width="80" height="33" as="geometry" />
+          <mxGeometry x="50" y="621.5" width="80" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-43" value="配置对比" style="dashed=0;html=1;rounded=1;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="681.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="180" y="624.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-45" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="168.5" y="640" as="sourcePoint" />
-            <mxPoint x="168.5" y="670" as="targetPoint" />
+            <mxPoint x="170" y="683" as="sourcePoint" />
+            <mxPoint x="170" y="713" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-46" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
@@ -167,13 +167,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-51" value="FR:xxxx" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="50" y="590" width="110" height="30" as="geometry" />
+          <mxGeometry x="49" y="560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-52" value="厂家:Oppo" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="200" y="590" width="110" height="30" as="geometry" />
+          <mxGeometry x="199" y="560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-53" value="Oppo" style="rounded=1;fillColor=#253858;strokeColor=none;html=1;fontColor=#ffffff;align=left;fontSize=12;spacingLeft=10" vertex="1" parent="1">
-          <mxGeometry x="320" y="590" width="100" height="33" as="geometry" />
+          <mxGeometry x="319" y="560" width="100" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2cxDILAhDorEXdLIPszs-54" value="" style="shape=triangle;direction=south;fillColor=#ffffff;strokeColor=none;html=1" vertex="1" parent="2cxDILAhDorEXdLIPszs-53">
           <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
