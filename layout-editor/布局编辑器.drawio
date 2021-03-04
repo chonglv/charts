@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T10:37:10.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="JCKUxc4G47ln6MWS4fIj" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T10:43:23.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="7JRCvHWANU19BsZ9peVY" version="14.4.3" type="github">
   <diagram id="xOBQJXy0Ue40J4LOi7c3" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -110,28 +110,28 @@
         <mxCell id="RqDaoYSggY41LwrY34h8-8" value="正式服上线" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#DAE8FC;gradientColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqDaoYSggY41LwrY34h8-9" value="语言键盘设计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RqDaoYSggY41LwrY34h8-9" value="键盘设计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RqDaoYSggY41LwrY34h8-10" value="语言属性信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqDaoYSggY41LwrY34h8-11" value="键盘模板脚本" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;gradientColor=#97D077;" vertex="1" parent="1">
+        <mxCell id="RqDaoYSggY41LwrY34h8-11" value="布局模板脚本" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;gradientColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="160" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqDaoYSggY41LwrY34h8-12" value="布局转换脚本" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;gradientColor=#97D077;" vertex="1" parent="1">
+        <mxCell id="RqDaoYSggY41LwrY34h8-12" value="格式转换脚本" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;gradientColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="160" y="270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqDaoYSggY41LwrY34h8-13" value="语言包脚本" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;gradientColor=#97D077;" vertex="1" parent="1">
+        <mxCell id="RqDaoYSggY41LwrY34h8-13" value="打包脚本" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;gradientColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqDaoYSggY41LwrY34h8-14" value="语言包上传脚本" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;gradientColor=#97D077;" vertex="1" parent="1">
+        <mxCell id="RqDaoYSggY41LwrY34h8-14" value="服务器上传脚本" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D5E8D4;gradientColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqDaoYSggY41LwrY34h8-15" value="键盘Json数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RqDaoYSggY41LwrY34h8-15" value="键盘布局数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqDaoYSggY41LwrY34h8-16" value="语言包sgl文件" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RqDaoYSggY41LwrY34h8-16" value="语言包文件" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RqDaoYSggY41LwrY34h8-17" value="本地预览走查" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -143,7 +143,7 @@
         <mxCell id="RqDaoYSggY41LwrY34h8-19" value="测试服验收" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqDaoYSggY41LwrY34h8-20" value="键盘布局数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RqDaoYSggY41LwrY34h8-20" value="语言包数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
