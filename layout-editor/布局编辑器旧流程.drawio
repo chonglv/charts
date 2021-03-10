@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T09:59:56.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="j5L7HQMz7C-DKDqLjfdE" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T10:03:09.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="yToiY6mZxa4fEvZt24mu" version="14.4.3" type="github">
   <diagram id="39g6dn5C_Y2pjblxklAl" name="Page-1">
     <mxGraphModel dx="865" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="9HN6wKcO5MAdERd0DkRd-14" value="创建语言资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=none;fillColor=#66B2FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="400" y="370" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9HN6wKcO5MAdERd0DkRd-15" value="修改部署数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=12;fillColor=#66B2FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-15" value="修改部署配置" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=12;fillColor=#66B2FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="540" y="488.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9HN6wKcO5MAdERd0DkRd-16" value="部署测试服" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fillColor=#66B2FF;" vertex="1" parent="1">
