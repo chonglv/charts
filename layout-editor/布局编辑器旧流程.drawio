@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T09:24:27.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="cafRnsJk2-7dw8hO6IKw" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T09:28:43.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="dlG-e3KtqpoyZ77GQn68" version="14.4.3" type="github">
   <diagram id="39g6dn5C_Y2pjblxklAl" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="9HN6wKcO5MAdERd0DkRd-5" value="打包脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="240" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9HN6wKcO5MAdERd0DkRd-6" value="产品走查" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fillColor=#6666FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-6" value="产品设计走查" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fillColor=#6666FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="400" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9HN6wKcO5MAdERd0DkRd-7" value="修改键盘布局" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=13;fillColor=#66B2FF;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="9HN6wKcO5MAdERd0DkRd-9" value="上传语言包" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fillColor=#66B2FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="400" y="517" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9HN6wKcO5MAdERd0DkRd-10" value="语言包数据" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fontSize=13;fillColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-10" value="整合语言数据" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fontSize=13;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9HN6wKcO5MAdERd0DkRd-12" value="测试服验收" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=13;fillColor=#67AB9F;" vertex="1" parent="1">
