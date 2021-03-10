@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T09:09:47.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.3" etag="gcy8M3qRimeQwPZe4Rve" type="github"><diagram id="39g6dn5C_Y2pjblxklAl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-10T09:20:18.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="pA4jyK6FSZMmSJvBoMQC" version="14.4.3" type="github">
+  <diagram id="39g6dn5C_Y2pjblxklAl" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-1" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;新语言需求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fontColor=#FFFFFF;fillColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-2" value="键盘设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;fontColor=#FFFFFF;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-4" value="修改语言属性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fillColor=#66B2FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-5" value="打包脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-6" value="产品走查" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fillColor=#6666FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-7" value="修改布局数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=13;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-8" value="语言包文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=none;fontColor=#FFFFFF;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="240" y="517" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-9" value="上传语言包" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fillColor=#66B2FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="517" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-10" value="语言包数据" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fontSize=13;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-12" value="测试服验收" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=13;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-13" value="正式服上线" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=13;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-14" value="创建语言资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=none;fillColor=#66B2FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-15" value="修改部署数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fillColor=#66B2FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="517" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HN6wKcO5MAdERd0DkRd-16" value="部署测试服" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FFFFFF;fontSize=13;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
